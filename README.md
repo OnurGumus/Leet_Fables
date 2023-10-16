@@ -4,7 +4,7 @@ Selected LeetCode questions and solutions in F#
 
 1. [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 
-- [Solve in Fable]()
+- [Solve in Fable](https://fable.io/repl/#?code=PYBwpgdgBAygngZwC5gLYDoDCwA2OwDGSAlsBAugOKRgBOxBUUAUM-klAWUgIbHkARAK4gcDHigAUEIagRQAXPw49atHnACUUALzMmTAGZ8cAd2JIAFlABEATWBDaUBLiEkyUS3TA3W-gICDFmCDNjAOFGRMHgQweR0oAG0AH0kARgAaVPSAbgAmXIBmXPSUgF1MqCRaITBNXMl87JS8wpKAFgrM4xw4hskilryR4rGOscKJ-O6aus0K1kNgZ0liTKikGLjM2njtfmr4rdj4qAATYH0DYkNObj5BETECCTBJTe36qAAeAD4oHt5FZINdQlAQPQIEg7jZNlAAKTEKDGYj4c42KDEMGhVFmCyWWHwpEokxgDFY1iQ5SwgAKsTiGKAA&html=Q&css=Q)
 
 - [See the Solution](https://fable.io/repl/#?code=PYBwpgdgBAygngZwC5gLYDoDCwA2OwDGSAlsBAugOKRgBOxBUUAUM-klAWUgIbHkARAK4gcDHigAUEIagRQAXPw49atHnACUUALzMmTAGZ8cAd2JIAFlABEATWBDaUBLiEkyUS3TA3W-gICDFmCDNjAOFGRMHgQweR0oAG0AH0kARgAaVPSAbgAmXIBmXPSUgF1MqCRaITBNXMl87JS8wpKAFgrM4xw4hskilryR4rGOscKJ-O6aus0K1kNgZ0liTKikGLjM2njtfmr4rdj4qAATYH0DYkNObj5BETECCTBJTe36qAAeAD4oHt5FZINdQlAQPQIEg7jZNlAAKTEKDGYj4c42KDEMGhVFmCyWWHwpEokxgDFY1iQ5SwgAKsTiGKAA&html=Q&css=Q)
 
