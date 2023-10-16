@@ -43,91 +43,91 @@ Selected LeetCode questions and solutions in F#
 
 - Not Solved yet
 
-7. [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+7. [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)
 
 - [Solve in Fable](https://fable.io/repl/#?code=PYBwpgdgBAygngZwC5gLYChSVolqB0AwsADYlgDGSAlsBAvgOKRgBO1FUU665SU1BAEEIAQwDmrUagAUCAFzJ2EcQBp+8qEuoqAlFAC86LlwBmo6iQDu1JAAsoAIgCawAK6stpNzTpQ7bGCOPCGhYSYRvGD8KMiEoghgCIZQANoAPjIAjKoyjqJiktKOqvmFUqiOuuqsbmC6ANwyAEy5jlJIJY4UoqxVquYkibrpALo8psCeMtTqSUjxiaqsSfo6ULELCUlQACbAxibUpgLC5dIym4v1UAA8AHxQK8n2kIcRXCDKSCeOm1AAUmoUHMljAu0cAneH1B1lsdl+-yBIIs5AhUPQXx0PycAAUEokIUA&html=Q&css=Q)
 
 - Not Solved yet
   
-8. [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+8. [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 
 - [Solve in Fable](https://fable.io/repl/#?code=PYBwpgdgBAygngZwC5gLYChSVolqB0AwsADYlgDGSAlsBAvgOKRgBO1FUU665SU1BAEEIAQwDmrUagAUCAFzJ2EcQBp+8qEuoqAlFAC86LlwBmo6iQDu1JAAsoAIgCawAK6stpNzTpQ7bGCOPCGhYSYRvGD8KMiEoghgCIZQANoAPjIAjKoyjqJiktKOqvmFUqiOuuqsbmC6ANwyAEy5jlJIJY4UoqxVquYkibrpALo8psCeMtTqSUjxiaqsSfo6ULELCUlQACbAxibUpgLC5dIym4v1UAA8AHxQK8n2kIcRXCDKSCeOm1AAUmoUHMljAu0cAneH1B1lsdl+-yBIIs5AhUPQXx0PycAAUEokIUA&html=Q&css=Q)
 
 - Not Solved yet
 
-9. [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+9. [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
 - [Solve in Fable](https://fable.io/repl/#?code=PYBwpgdgBAygngZwC5gLYChSVolqB0AwsADYlgDGSAlsBAvgOKRgBO1FUU665SU1BAEEIAQwDmrUagAUCAFzJ2EcQBp+8qEuoqAlFAC86LlwBmo6iQDu1JAAsoAIgCawAK6stpNzTpQ7bGCOPCGhYSYRvGD8KMiEoghgCIZQANoAPjIAjKoyjqJiktKOqvmFUqiOuuqsbmC6ANwyAEy5jlJIJY4UoqxVquYkibrpALo8psCeMtTqSUjxiaqsSfo6ULELCUlQACbAxibUpgLC5dIym4v1UAA8AHxQK8n2kIcRXCDKSCeOm1AAUmoUHMljAu0cAneH1B1lsdl+-yBIIs5AhUPQXx0PycAAUEokIUA&html=Q&css=Q)
 
 - Not Solved yet
 
-10. [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+10. [15. 3Sum](https://leetcode.com/problems/3sum/)
 
 - [Solve in Fable](https://fable.io/repl/#?code=PYBwpgdgBAygngZwC5gLYChSVolqB0AwsADYlgDGSAlsBAvgOKRgBO1FUU665SU1BAEEIAQwDmrUagAUCAFzJ2EcQBp+8qEuoqAlFAC86LlwBmo6iQDu1JAAsoAIgCawAK6stpNzTpQ7bGCOPCGhYSYRvGD8KMiEoghgCIZQANoAPjIAjKoyjqJiktKOqvmFUqiOuuqsbmC6ANwyAEy5jlJIJY4UoqxVquYkibrpALo8psCeMtTqSUjxiaqsSfo6ULELCUlQACbAxibUpgLC5dIym4v1UAA8AHxQK8n2kIcRXCDKSCeOm1AAUmoUHMljAu0cAneH1B1lsdl+-yBIIs5AhUPQXx0PycAAUEokIUA&html=Q&css=Q)
 
 - Not Solved yet
 
-11. [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+11. [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
 - [Solve in Fable](https://fable.io/repl/#?code=PYBwpgdgBAygngZwC5gLYChSVolqB0AwsADYlgDGSAlsBAvgOKRgBO1FUU665SU1BAEEIAQwDmrUagAUCAFzJ2EcQBp+8qEuoqAlFAC86LlwBmo6iQDu1JAAsoAIgCawAK6stpNzTpQ7bGCOPCGhYSYRvGD8KMiEoghgCIZQANoAPjIAjKoyjqJiktKOqvmFUqiOuuqsbmC6ANwyAEy5jlJIJY4UoqxVquYkibrpALo8psCeMtTqSUjxiaqsSfo6ULELCUlQACbAxibUpgLC5dIym4v1UAA8AHxQK8n2kIcRXCDKSCeOm1AAUmoUHMljAu0cAneH1B1lsdl+-yBIIs5AhUPQXx0PycAAUEokIUA&html=Q&css=Q)
 
 - Not Solved yet
 
-12. [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+12. [https://leetcode.com/problems/best-time-to-buy-and-sell-stock/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 - [Solve in Fable](https://fable.io/repl/#?code=PYBwpgdgBAygngZwC5gLYChSVolqB0AwsADYlgDGSAlsBAvgOKRgBO1FUU665SU1BAEEIAQwDmrUagAUCAFzJ2EcQBp+8qEuoqAlFAC86LlwBmo6iQDu1JAAsoAIgCawAK6stpNzTpQ7bGCOPCGhYSYRvGD8KMiEoghgCIZQANoAPjIAjKoyjqJiktKOqvmFUqiOuuqsbmC6ANwyAEy5jlJIJY4UoqxVquYkibrpALo8psCeMtTqSUjxiaqsSfo6ULELCUlQACbAxibUpgLC5dIym4v1UAA8AHxQK8n2kIcRXCDKSCeOm1AAUmoUHMljAu0cAneH1B1lsdl+-yBIIs5AhUPQXx0PycAAUEokIUA&html=Q&css=Q)
 
 - Not Solved yet
 
-13. [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+13. [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 - [Solve in Fable](https://fable.io/repl/#?code=PYBwpgdgBAygngZwC5gLYChSVolqB0AwsADYlgDGSAlsBAvgOKRgBO1FUU665SU1BAEEIAQwDmrUagAUCAFzJ2EcQBp+8qEuoqAlFAC86LlwBmo6iQDu1JAAsoAIgCawAK6stpNzTpQ7bGCOPCGhYSYRvGD8KMiEoghgCIZQANoAPjIAjKoyjqJiktKOqvmFUqiOuuqsbmC6ANwyAEy5jlJIJY4UoqxVquYkibrpALo8psCeMtTqSUjxiaqsSfo6ULELCUlQACbAxibUpgLC5dIym4v1UAA8AHxQK8n2kIcRXCDKSCeOm1AAUmoUHMljAu0cAneH1B1lsdl+-yBIIs5AhUPQXx0PycAAUEokIUA&html=Q&css=Q)
 
 - Not Solved yet
 
-14. [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+14. [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 
 - [Solve in Fable](https://fable.io/repl/#?code=PYBwpgdgBAygngZwC5gLYChSVolqB0AwsADYlgDGSAlsBAvgOKRgBO1FUU665SU1BAEEIAQwDmrUagAUCAFzJ2EcQBp+8qEuoqAlFAC86LlwBmo6iQDu1JAAsoAIgCawAK6stpNzTpQ7bGCOPCGhYSYRvGD8KMiEoghgCIZQANoAPjIAjKoyjqJiktKOqvmFUqiOuuqsbmC6ANwyAEy5jlJIJY4UoqxVquYkibrpALo8psCeMtTqSUjxiaqsSfo6ULELCUlQACbAxibUpgLC5dIym4v1UAA8AHxQK8n2kIcRXCDKSCeOm1AAUmoUHMljAu0cAneH1B1lsdl+-yBIIs5AhUPQXx0PycAAUEokIUA&html=Q&css=Q)
 
 - Not Solved yet
 
-15. [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+15. [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 
 - [Solve in Fable](https://fable.io/repl/#?code=PYBwpgdgBAygngZwC5gLYChSVolqB0AwsADYlgDGSAlsBAvgOKRgBO1FUU665SU1BAEEIAQwDmrUagAUCAFzJ2EcQBp+8qEuoqAlFAC86LlwBmo6iQDu1JAAsoAIgCawAK6stpNzTpQ7bGCOPCGhYSYRvGD8KMiEoghgCIZQANoAPjIAjKoyjqJiktKOqvmFUqiOuuqsbmC6ANwyAEy5jlJIJY4UoqxVquYkibrpALo8psCeMtTqSUjxiaqsSfo6ULELCUlQACbAxibUpgLC5dIym4v1UAA8AHxQK8n2kIcRXCDKSCeOm1AAUmoUHMljAu0cAneH1B1lsdl+-yBIIs5AhUPQXx0PycAAUEokIUA&html=Q&css=Q)
 
 - Not Solved yet
 
-16. [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+16. [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 - [Solve in Fable](https://fable.io/repl/#?code=PYBwpgdgBAygngZwC5gLYChSVolqB0AwsADYlgDGSAlsBAvgOKRgBO1FUU665SU1BAEEIAQwDmrUagAUCAFzJ2EcQBp+8qEuoqAlFAC86LlwBmo6iQDu1JAAsoAIgCawAK6stpNzTpQ7bGCOPCGhYSYRvGD8KMiEoghgCIZQANoAPjIAjKoyjqJiktKOqvmFUqiOuuqsbmC6ANwyAEy5jlJIJY4UoqxVquYkibrpALo8psCeMtTqSUjxiaqsSfo6ULELCUlQACbAxibUpgLC5dIym4v1UAA8AHxQK8n2kIcRXCDKSCeOm1AAUmoUHMljAu0cAneH1B1lsdl+-yBIIs5AhUPQXx0PycAAUEokIUA&html=Q&css=Q)
 
 - Not Solved yet
 
-17. [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+17. [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 
 - [Solve in Fable](https://fable.io/repl/#?code=PYBwpgdgBAygngZwC5gLYChSVolqB0AwsADYlgDGSAlsBAvgOKRgBO1FUU665SU1BAEEIAQwDmrUagAUCAFzJ2EcQBp+8qEuoqAlFAC86LlwBmo6iQDu1JAAsoAIgCawAK6stpNzTpQ7bGCOPCGhYSYRvGD8KMiEoghgCIZQANoAPjIAjKoyjqJiktKOqvmFUqiOuuqsbmC6ANwyAEy5jlJIJY4UoqxVquYkibrpALo8psCeMtTqSUjxiaqsSfo6ULELCUlQACbAxibUpgLC5dIym4v1UAA8AHxQK8n2kIcRXCDKSCeOm1AAUmoUHMljAu0cAneH1B1lsdl+-yBIIs5AhUPQXx0PycAAUEokIUA&html=Q&css=Q)
 
 - Not Solved yet
 
-18. [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+18. [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
 - [Solve in Fable](https://fable.io/repl/#?code=PYBwpgdgBAygngZwC5gLYChSVolqB0AwsADYlgDGSAlsBAvgOKRgBO1FUU665SU1BAEEIAQwDmrUagAUCAFzJ2EcQBp+8qEuoqAlFAC86LlwBmo6iQDu1JAAsoAIgCawAK6stpNzTpQ7bGCOPCGhYSYRvGD8KMiEoghgCIZQANoAPjIAjKoyjqJiktKOqvmFUqiOuuqsbmC6ANwyAEy5jlJIJY4UoqxVquYkibrpALo8psCeMtTqSUjxiaqsSfo6ULELCUlQACbAxibUpgLC5dIym4v1UAA8AHxQK8n2kIcRXCDKSCeOm1AAUmoUHMljAu0cAneH1B1lsdl+-yBIIs5AhUPQXx0PycAAUEokIUA&html=Q&css=Q)
 
 - Not Solved yet
 
-19. [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+19. [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
 - [Solve in Fable](https://fable.io/repl/#?code=PYBwpgdgBAygngZwC5gLYChSVolqB0AwsADYlgDGSAlsBAvgOKRgBO1FUU665SU1BAEEIAQwDmrUagAUCAFzJ2EcQBp+8qEuoqAlFAC86LlwBmo6iQDu1JAAsoAIgCawAK6stpNzTpQ7bGCOPCGhYSYRvGD8KMiEoghgCIZQANoAPjIAjKoyjqJiktKOqvmFUqiOuuqsbmC6ANwyAEy5jlJIJY4UoqxVquYkibrpALo8psCeMtTqSUjxiaqsSfo6ULELCUlQACbAxibUpgLC5dIym4v1UAA8AHxQK8n2kIcRXCDKSCeOm1AAUmoUHMljAu0cAneH1B1lsdl+-yBIIs5AhUPQXx0PycAAUEokIUA&html=Q&css=Q)
 
 - Not Solved yet
   
-20. [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+20. [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 
 - [Solve in Fable](https://fable.io/repl/#?code=PYBwpgdgBAygngZwC5gLYChSVolqB0AwsADYlgDGSAlsBAvgOKRgBO1FUU665SU1BAEEIAQwDmrUagAUCAFzJ2EcQBp+8qEuoqAlFAC86LlwBmo6iQDu1JAAsoAIgCawAK6stpNzTpQ7bGCOPCGhYSYRvGD8KMiEoghgCIZQANoAPjIAjKoyjqJiktKOqvmFUqiOuuqsbmC6ANwyAEy5jlJIJY4UoqxVquYkibrpALo8psCeMtTqSUjxiaqsSfo6ULELCUlQACbAxibUpgLC5dIym4v1UAA8AHxQK8n2kIcRXCDKSCeOm1AAUmoUHMljAu0cAneH1B1lsdl+-yBIIs5AhUPQXx0PycAAUEokIUA&html=Q&css=Q)
 
 - Not Solved yet
 
-21. [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+21. [143. Reorder List](https://leetcode.com/problems/reorder-list/)
 
 - [Solve in Fable](https://fable.io/repl/#?code=PYBwpgdgBAygngZwC5gLYChSVolqB0AwsADYlgDGSAlsBAvgOKRgBO1FUU665SU1BAEEIAQwDmrUagAUCAFzJ2EcQBp+8qEuoqAlFAC86LlwBmo6iQDu1JAAsoAIgCawAK6stpNzTpQ7bGCOPCGhYSYRvGD8KMiEoghgCIZQANoAPjIAjKoyjqJiktKOqvmFUqiOuuqsbmC6ANwyAEy5jlJIJY4UoqxVquYkibrpALo8psCeMtTqSUjxiaqsSfo6ULELCUlQACbAxibUpgLC5dIym4v1UAA8AHxQK8n2kIcRXCDKSCeOm1AAUmoUHMljAu0cAneH1B1lsdl+-yBIIs5AhUPQXx0PycAAUEokIUA&html=Q&css=Q)
 
