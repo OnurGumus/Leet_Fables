@@ -17,7 +17,7 @@ Selected LeetCode questions and solutions in F#
 
 3. [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
-- [Solve in Fable](https://fable.io/repl/#?code=PYBwpgdgBAygngZwC5gLYChSVolqB0AwsADYlgDGSAlsBAvgOKRgBO1FUU665SU1BAEEIAQwDmrUagAUCAFzJ2EcQBp+8qEuoqAlFAC86LlwBmo6iQDu1JAAsoAIgCawAK6stpNzTpQ7bGCOPCGhYSYRvGD8KMiEoghgCIZQANoAPjIAjKoyjqJiktKOqvmFUqiOuuqsbmC6ANwyAEy5jlJIJY4UoqxVquYkibrpALo8psCeMtTqSUjxiaqsSfo6ULELCUlQACbAxibUpgLC5dIym4v1UAA8AHxQK8n2kIcRXCDKSCeOm1AAUmoUHMljAu0cAneH1B1lsdl+-yBIIs5AhUPQXx0PycAAUEokIUA&html=Q&css=Q)
+- [Solve in Fable](https://fable.io/repl/#?code=PTAEBkFNIF1BjA9gE0gLlACxjADgZzRABtoYlUA6JAW2FwCdEAjUm-YGAd0QFp8ArnQBQiXJAB2oAMoBPfDEg1R4qXIVLKAYUTFS8GAEtEE-JQDikyA0PxQoYcNJxuiaUIAUEoYVCGJcACGDAyBsqAANKAwwQDmsBj+cACUoIkBoMGh4QC8wvb2AGaBhsRchjCYoABEAJqIAgyg+LoCRiZY1pDVjr19vQUOgwVOsNGQClqB+BOgOaAA2gA++QUeAIwRHssATADcAOx76+vHAKxLALoRAJzJUcsADMdXyav2HjtbywDMe-sAFiuEQAbPdFktTjtXu9QB4ft8ln8-sCwQ8ls91jCro5Cogmh5DBFFJNppAIgwJql-ONSTN8KBkIhYYZCtEeO4aB4STApjNUgAeAB8oEpDMqklhg0YSTZ1R5oAApIZQMVSpBkNU-FKCmqyhVMHKFcrVSVSJrtcIZQE5QAFaYzTVAA&html=Q&css=Q)
 
 - Not Solved yet
 
